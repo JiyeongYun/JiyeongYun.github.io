@@ -4,25 +4,25 @@ url : "https://jiyeongyun.github.io"
 
 # Blog Settings
 theme_settings :
-  title : jiyeongyun 
-  favicon : assets/favicon.ico
+  title : '개발'자국  
+  favicon : assets/favicon.png
 
   # Profile Settings
   profile :
-    image : assets/img/smile.png
-    username : (YOON, JIYOUNG)
-    description : creator of Grape-Theme! Grape-Theme is my first jekyll theme and you can customize this theme easily.
+    image : assets/img/profile.png
+    username : 윤지영(YUN, JIYEONG)
+    description : '개발'자국
     experience :
       - start : 2017-05-03
         end : 2018-05-06
         experience : company name, title
     skills : 
-      - skill : HTML5 & CSS
-        value : 85  # Percent value
+      - skill : Java
+        value : 90  # Percent value
         
   # Icons
   icons :
-    email:  # Full email address, e.g. "sample@google.com"
+    email:  yoonjy1106@gmail.com
     linkedin:  # Full URL 
     github: jiyeongyun
     gitlab: 
@@ -34,7 +34,7 @@ theme_settings :
     instagram: yeong.jpg
 
   # Disqus
-  disqus_shortname :
+  disqus_shortname : jiyeong
 
 # Pagination
 paginate: 5
