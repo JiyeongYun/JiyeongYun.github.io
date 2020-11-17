@@ -4,13 +4,13 @@ url : "https://jiyeongyun.github.io"
 
 # Blog Settings
 theme_settings :
-  title : '개발'자국 
+  title : jiyeongyun 
   favicon : assets/favicon.ico
 
   # Profile Settings
   profile :
     image : assets/img/smile.png
-    username : 윤지영(YOON, JIYOUNG)
+    username : (YOON, JIYOUNG)
     description : creator of Grape-Theme! Grape-Theme is my first jekyll theme and you can customize this theme easily.
     experience :
       - start : 2017-05-03
@@ -31,7 +31,7 @@ theme_settings :
     twitter:
     youtube:
     facebook:
-    instagram:
+    instagram: yeong.jpg
 
   # Disqus
   disqus_shortname :
