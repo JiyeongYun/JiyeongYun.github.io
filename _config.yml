@@ -4,7 +4,7 @@ url : "https://jiyeongyun.github.io"
 
 # Blog Settings
 theme_settings :
-  title : '개발'자국  
+  title : 개발자국  
   favicon : assets/favicon.ico
 
   # Profile Settings
