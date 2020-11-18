@@ -4,8 +4,8 @@ url : "https://jiyeongyun.github.io"
 
 # Blog Settings
 theme_settings :
-  title : 개 발자국  
-  favicon : assets/favicon.png
+  title : 개 발자국 🐾
+  favicon : assets/profile.png
 
   # Profile Settings
   profile :
