@@ -4,14 +4,14 @@ url : "https://jiyeongyun.github.io"
 
 # Blog Settings
 theme_settings :
-  title : \'개발\'자국  
-  favicon : assets/favicon.ico
+  title : \\'개발\\'자국  
+  favicon : assets/favicon.png
 
   # Profile Settings
   profile :
     image : assets/profile.png
     username : 윤지영(YUN, JIYEONG)
-    description : \'개발\'자국 🐾
+    description : \\'개발\\'자국 🐾
     experience :
       - start : 2016-07-01
         end : 2016-08-31
