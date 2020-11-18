@@ -9,12 +9,12 @@ theme_settings :
 
   # Profile Settings
   profile :
-    image : assets/img/profile.png
+    image : assets/profile.png
     username : 윤지영(YUN, JIYEONG)
-    description : '개발'자국
+    description : 개발자국
     experience :
-      - start : 2017-05-03
-        end : 2018-05-06
+      - start : 2016-07-01
+        end : 2016-08-31
         experience : company name, title
     skills : 
       - skill : Java
