@@ -13,22 +13,26 @@ theme_settings :
     username : 윤지영(YUN, JIYEONG)
     description : 개발 자국 🐾
     experience :
-      - start : 2017-03-01
-        end : 2019-06-14
+      - start : 2017-03
+        end : 2019-06
         experience : '시선', 소외된 이웃들을 위한 IT 솔루션 학회
         description : 한동대학교 전산 학회 
-      - start : 2016-09-01
-        end : 2017-06-16
+      - start : 2016-09
+        end : 2017-06
         experience : 천풍해세
         description : 한동대학교 태권도 동아리 
-      - start : 2016-02-22
+      - start : 2016-02
         end : On Going
         experience : Handong Global University
         description : 전산전자공학부 컴퓨터공학심화 전공
 
     skills : 
       - skill : Java
-        value : 90  # Percent value
+        value : 90 
+      - skill : C++
+        value : 80 
+      - skill : HTML5 & CSS
+        value : 70 
         
   # Icons
   icons :
