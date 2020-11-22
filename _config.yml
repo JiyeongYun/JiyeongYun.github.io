@@ -15,7 +15,7 @@ theme_settings :
     experience :
       - start : 2017-03
         end : 2019-06
-        experience : '시선', 소외된 이웃들을 위한 IT 솔루션 학회
+        experience : 시선, 소외된 이웃들을 위한 IT 솔루션 학회
         description : 한동대학교 전산 학회 
       - start : 2016-09
         end : 2017-06
